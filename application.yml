@@ -1,7 +1,3 @@
-spring:
- application:
-  name: Config-Default
-
 # write repeatative properties of services here
 eureka:
   instance:
